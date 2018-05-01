@@ -1,4 +1,6 @@
-﻿---s
+---
+title: Document Center
+---
 # NFA
 The exact state to which the machine moves cannot be determined. It is called **Non-deterministic Automaton**(NFA).
 ### Formal Definition of an NDFA
